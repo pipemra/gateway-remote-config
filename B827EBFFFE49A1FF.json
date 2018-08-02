@@ -1,0 +1,19 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE49A1FF",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "fake_gps": true,
+    "ref_latitude": 11.0041783,
+    "ref_longitude": -74.8150294,
+    "ref_altitude": 40,
+    "contact_email": "pipe9615@gmail.com",
+    "description": "LoRa Test"
+  }
+}
